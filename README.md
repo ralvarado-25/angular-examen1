@@ -85,4 +85,4 @@ Angular Pokedex é um projeto desenvolvido utilizando Angular e a API [PokéApi]
 
 # Ejecución del proyecto
 
-Teste o Projeto acessando https://ralvarado-25.github.io/angular-examen1/pokemon/1
+Demo https://ralvarado-25.github.io/angular-examen1/pokemon/1
